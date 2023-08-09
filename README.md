@@ -17,7 +17,7 @@ The Bank Management System allows customers to register, authenticate, check bal
 ## Installation
 
 1. Clone the repository:
-git clone [https://github.com/yourusername/Bank-Management-System.git](https://github.com/kundnanl/Bank-Management-System.git)
+git clone https://github.com/kundnanl/Bank-Management-System.git
 
 2. Set up the MySQL Database:
 - Install MySQL if you haven't already.
