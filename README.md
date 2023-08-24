@@ -55,7 +55,7 @@ git clone https://github.com/kundnanl/Bank-Management-System.git
 
 ## Project Structure
 
-- script_name.py
+- bank.py
 - README.md
 
 ## Roadmap
